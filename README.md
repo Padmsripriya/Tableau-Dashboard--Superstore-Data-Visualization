@@ -61,13 +61,16 @@ Shipping: Ship Mode, Ship Date
   1. Click-to-Drill – Dive deeper into specific data points (e.g., state → city)
   2. Hover Tooltips – View detailed metrics without clutter
 
-**Filters & Parameters: **     
+**Filters & Parameters:**     
 ![Screenshot 2025-03-29 160108](https://github.com/user-attachments/assets/fac5ac93-535b-47c0-91a7-18df4e0beb38)
 
 ### Orders Dashboard
 The dedicated orders view provides granular analysis of individual transactions, tracking fulfillment timelines (Ship Days), order quantities, and profitability metrics (Bill Amount, Profit/Loss, Margin) across customer segments and geographic locations. This operational perspective complements the sales overview by revealing execution-level insights.
 
 ![Screenshot 2025-03-29 160246](https://github.com/user-attachments/assets/5b9dd163-cf0a-4a55-a8bb-ee426d941771)
+
+**Future Enhancements**
+The dashboard could be expanded to include predictive order forecasting, returns analysis by product category, carrier performance metrics, and real-time fulfillment alerts.
 
 
 
